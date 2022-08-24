@@ -1,1 +1,1 @@
-# Stock package version: Sony/pdx215/pdx215:12/61.1.A.9.128/059001A000048503521489921:user/release-keys
+# Stock package version: Sony/pdx215/pdx215:11/RKQ1.211222.001/1:user/release-keys
